@@ -13,5 +13,3 @@
 - Update `style.css` file
   - Fonts
   - Colors
-
-## Watch the [video walkthrough](#video-walkthrough) above for more detailed instructions.
